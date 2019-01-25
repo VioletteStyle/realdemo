@@ -17,7 +17,7 @@ title: VioletteStyle
 email: violettestyle@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   VioletteStyle focus on lifestyle fashion beauty and so on...
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /realdemo # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: violette.style
 instagram_username:  violette.style
